@@ -28,13 +28,15 @@
 <!-- Project Showcase Section -->
 <h3 align="left">Project Showcase:</h3>
 
-- **Project Name 1:**
+- **Fourtech Services:**
+  <img src="fourtech.jpg" alt="fourtech">
   Brief description goes here. Add a link to the repository and maybe a screenshot or GIF.
-  [GitHub Repository](https://github.com/your-username/project-1)
+  [Fourtech Services](https://fourtechservices.com)
 
-- **Project Name 2:**
+- **Greater Nepal News:**
+  <img src="Greaternepal.jpg" alt="Freater Nepal News">
   Another project description. Feel free to include any achievements or interesting facts.
-  [GitHub Repository](https://github.com/your-username/project-2)
+  [Greater Nepal News](https://greaternepal.com)
 
 <!-- Skills Rating Section -->
 <h3 align="left">Skills:</h3>
