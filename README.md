@@ -3,6 +3,7 @@
   Welcome to Yubraj Pandeya's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+<hr>
 
 <p align="center">
   <a href="https://github.com/mrjudiyt"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+maker+and+designer.;A+full-stack+Developer.;Student+of+Software+Engineering"></a>
@@ -29,6 +30,7 @@
 <h3 align="left">Project Showcase:</h3>
 
 - **Fourtech Services:**
+<hr>
 <br>
   <img src="fourtech.jpg" alt="fourtech" height="700px">
   <br>
