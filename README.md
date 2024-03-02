@@ -29,12 +29,16 @@
 <h3 align="left">Project Showcase:</h3>
 
 - **Fourtech Services:**
-  <img src="fourtech.jpg" alt="fourtech">
+<br>
+  <img src="fourtech.jpg" alt="fourtech" height="700px">
+  <br>
   Brief description goes here. Add a link to the repository and maybe a screenshot or GIF.
   [Fourtech Services](https://fourtechservices.com)
 
 - **Greater Nepal News:**
-  <img src="Greaternepal.jpg" alt="Freater Nepal News">
+<br>
+  <img src="Greaternepal.jpg" alt="Freater Nepal News" height="700px">
+  <br>
   Another project description. Feel free to include any achievements or interesting facts.
   [Greater Nepal News](https://greaternepal.com)
 
